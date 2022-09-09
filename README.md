@@ -5,7 +5,7 @@
 - [Project intrduction](#intrduction)
 - [Notebook usage](#usage)
 - [Open data](#data)
-- [Acknowledgements](#ack)
+- [Contact](#con)
 
 <!-- Citation -->
 ## Citation
@@ -40,6 +40,10 @@ All codes can be excuted in conda environment with the installed pkgs listed at 
 
 All sample data and our generated result data are in ```data```  folder.
 
-<!-- Acknowledgements -->
-## Acknowledgements
+<!-- Contact -->
+## Contact
 
+Please contact the main contributers in this project.
+
+- Tongxin Chen tongxin.chen.18@ucl.ac.uk 
+- Dr Di Zhu dizhu@umn.edu

@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Citation](#citation)
-- [Project intrduction](#intrduction)
+- [Project introduction](#introduction)
 - [Notebook usage](#usage)
 - [Open data](#data)
 - [Contact](#con)
@@ -20,7 +20,7 @@ citation
 ```
 
 
-<!-- Project intrduction -->
+<!-- Project introduction -->
 ## Project intrduction
 
 Exploration of dynamic human activity gives significant insights into understanding the urban environment and can help to reinforce scientific urban management strategies. Lots of studies are arising regarding the significant human activity changes in global metropolises and regions affected by COVID-19 containment policies. However, the variations of human activity dynamic amid different phases divided by the non-pharmaceutical intervention policies (e.g., stay-at-home, lockdown) have not been investigated across urban areas in space and time and discussed with the urban characteristic determinants. In this study, we aim to explore the influence of different restriction phases on dynamic human activity through sensing human activity zones
@@ -31,9 +31,9 @@ Exploration of dynamic human activity gives significant insights into understand
 <!-- Notebook usage -->
 ## Notebook usage
 
-Our data in this project are all in notebook file ```HAZ_analysis.ipynb``` consitting of  1) HAZ Clustering; 2) HAZ Delineation; 3) Relationships between HAZs and static urabn characteristics. 
+Our data in this project are all in notebook file ```HAZ_analysis.ipynb``` consisting of  1) HAZ Clustering; 2) HAZ Delineation; 3) Relationships between HAZs and static urban characteristics. 
 
-All codes can be excuted in conda environment with the installed pkgs listed at the top of this notenook. 
+All codes can be executed in Conda environment with the installed pkgs listed at the top of this notebook. 
 
 <!-- Open data -->
 ## Open data
@@ -43,7 +43,7 @@ All sample data and our generated result data are in ```data```  folder.
 <!-- Contact -->
 ## Contact
 
-Please contact the main contributers in this project.
+Please contact the main contributors in this project.
 
-- Tongxin Chen tongxin.chen.18@ucl.ac.uk 
-- Dr Di Zhu dizhu@umn.edu
+- Tongxin Chen (tongxin.chen.18@ucl.ac.uk), PhD researcher, SpacetimeLab, University College London, London, UK.
+- Dr Di Zhu (dizhu@umn.edu), Assistant Professor, Geospatial Data Intelligence Lab, University of Minnesota, Minneapolis, US.

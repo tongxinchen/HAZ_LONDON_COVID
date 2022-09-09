@@ -31,8 +31,7 @@ Exploration of dynamic human activity gives significant insights into understand
 <!-- Notebook usage -->
 ## Notebook usage
 
-
-
+ Our data in this project are all in notebook file ```HAZ_analysis.ipynb``` 
 
 <!-- Open data -->
 ## Open data

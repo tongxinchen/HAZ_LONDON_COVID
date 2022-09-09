@@ -30,3 +30,12 @@ citation
 ## Notebook usage
 
 
+
+
+<!-- Open data -->
+## Open data
+
+
+
+<!-- Acknowledgements -->
+## Acknowledgements

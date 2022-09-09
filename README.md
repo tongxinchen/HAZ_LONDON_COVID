@@ -7,5 +7,16 @@
 - [Open data](#data)
 - [Acknowledgements](#ack)
 
-<!-- citation -->
+<!-- Citation -->
 ## Citation
+
+If you use the functions in this project in your research, please cite this source:
+
+'''
+citation
+'''
+
+
+
+
+

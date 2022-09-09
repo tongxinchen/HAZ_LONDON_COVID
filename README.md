@@ -7,5 +7,5 @@
 - [Open data](#data)
 - [Acknowledgements](#ack)
 
-<!-- Citation -->
+<!-- citation -->
 ## Citation

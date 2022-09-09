@@ -31,12 +31,15 @@ Exploration of dynamic human activity gives significant insights into understand
 <!-- Notebook usage -->
 ## Notebook usage
 
- Our data in this project are all in notebook file ```HAZ_analysis.ipynb``` 
+Our data in this project are all in notebook file ```HAZ_analysis.ipynb``` consitting of  1) HAZ Clustering; 2) HAZ Delineation; 3) Relationships between HAZs and static urabn characteristics. 
+
+All codes can be excuted in conda environment with the installed pkgs listed at the top of this notenook. 
 
 <!-- Open data -->
 ## Open data
 
-
+All sample data and our generated result data are in ```data```  folder.
 
 <!-- Acknowledgements -->
 ## Acknowledgements
+

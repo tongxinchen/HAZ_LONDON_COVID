@@ -39,5 +39,5 @@ All sample data and our generated result data are in ```data```  folder.
 
 Please contact the main contributors in this project.
 
-- Tongxin Chen (tongxin.chen.18@ucl.ac.uk), PhD researcher, SpacetimeLab, University College London, London, UK.
+- Tongxin Chen (tongxin.chen.18@ucl.ac.uk), PhD researcher, SpacetimeLab for Big Data Analytics, University College London, London, UK.
 - Dr Di Zhu (dizhu@umn.edu), Assistant Professor, Geospatial Data Intelligence Lab, University of Minnesota, Minneapolis, US.

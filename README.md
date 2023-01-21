@@ -11,7 +11,6 @@ If you use the functions in this project in your research, please cite this sour
 
 ```
 Chen T, Zhu D, Cheng T, Gao X, Chen H (2023) Sensing dynamic human activity zones using geo-tagged big data in Greater London, UK during the COVID-19 pandemic. PLOS ONE 18(1): e0277913. https://doi.org/10.1371/journal.pone.0277913
-
 ```
 
 
